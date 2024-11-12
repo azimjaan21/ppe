@@ -1,0 +1,8 @@
+train: 'C:\\Users\\dalab\\Desktop\\azimjaan21\\SafeFactory System\\Datasets\\안전장구류\\안전장구류\\images\\train'
+val: 'C:\\Users\\dalab\\Desktop\\azimjaan21\\SafeFactory System\\Datasets\\안전장구류\\안전장구류\\images\\val'
+test: 'C:\\Users\\dalab\\Desktop\\azimjaan21\\SafeFactory System\\Datasets\\안전장구류\\안전장구류\\images\\test'
+
+nc: 3
+
+#class names
+names: ["helmet", "vest", "head" ]
